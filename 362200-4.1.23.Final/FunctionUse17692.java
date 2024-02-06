@@ -1,0 +1,6 @@
+import io.netty.channel.nio.SelectedSelectionKeySet;
+public class FunctionUse17692 {
+public void funcUse() {
+SelectedSelectionKeySet selectedselectionkeyset = new SelectedSelectionKeySet();
+}
+}
